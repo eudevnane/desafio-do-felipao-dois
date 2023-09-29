@@ -1,5 +1,6 @@
 
 calcular();
+
 let saldoVitorias = 100
 let saldoDerrotas = 20
 
